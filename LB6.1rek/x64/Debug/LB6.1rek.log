@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\project\LB6.1rek\LB6.1rek\main.cpp(34,1): warning C4715: 'Sum': not all control paths return a value
+D:\project\LB6.1rek\LB6.1rek\main.cpp(46,1): warning C4715: 'Count': not all control paths return a value
+  LB6.1rek.vcxproj -> D:\project\LB6.1rek\x64\Debug\LB6.1rek.exe
